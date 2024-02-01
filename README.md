@@ -1,5 +1,4 @@
-Implemented the Basic Netflix Clone using React.js
-
+Implemented the Basic Netflix Clone using React
 
 ![image](https://github.com/A-rjun-g/Netflix-Clone/assets/156792878/0d8d2bcd-4b6c-445f-b4b8-2fe210c472d9)
 
