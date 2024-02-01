@@ -1,13 +1,22 @@
 {
+<<<<<<< HEAD
   "homepage": "http://A-rjun-g.github.io/Netflix-Clone",
+=======
+  "homepage":"http://A-rjun-g.github.io/Netflix-Clone",
+>>>>>>> d15e4d088e2cb8ab465c4da3ca668751093e0a02
   "name": "netflixclone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages-d build",
+=======
+    "predeploy":"npm run build",
+    "deploy":"gh-pages-d build",
+>>>>>>> d15e4d088e2cb8ab465c4da3ca668751093e0a02
     "build": "vite build",
     "preview": "vite preview"
   },
